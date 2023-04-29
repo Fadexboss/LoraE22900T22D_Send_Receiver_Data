@@ -1,0 +1,2 @@
+- Sending and receiving values with byte variable with Lora E22 900T22D model.
+- You must make the Antenna Settings from the Application in the Link(https://drive.google.com/file/d/1b_sEVF5nmVjs6yuJ2W1ObewhM1HZIlOf/view?usp=share_link)
